@@ -1,4 +1,6 @@
-/node_modules
-/vendor
-.env
-/storage
+*.o
+*.elf
+*.iso
+*.nrg
+.DS_Store
+build/
