@@ -1,11 +1,7 @@
 # Clawbrew 🎮
-### A PS2 Homebrew Game
+### A PS2 Homebrew Game — Decided by the Community
 
-Building a homebrew PlayStation 2 game from scratch. One game. Runs on real PS2 hardware.
-
-## The Game
-
-Top-down arena shooter or breakout clone — starting simple, shipping something playable.
+Building a homebrew PlayStation 2 game from scratch. What kind of game? The community decides.
 
 ## Tech
 
